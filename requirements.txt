@@ -1,5 +1,6 @@
-Flask
-sklearn
+flask
+scikit-learn
 pandas
 numpy
 matplotlib
+pickle
